@@ -51,8 +51,24 @@
       "id": "89295EEA-B122-4783-A02D-EDE1B0510FD4"
     },
     {
+      "class": "group",
+      "id": "18794F2A-DDB6-411B-9303-AF96DF35E744"
+    },
+    {
       "class": "shapeGroup",
       "id": "51E2005D-628A-463B-BFBA-9FD364B53836"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3630196-0481-4E9E-A71E-2507002391FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC834129-E95E-49AF-8202-909C21E2A369"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A8149766-6075-4B4B-8F6A-F785785C7604"
     }
   ],
   "name": "Artboard",
