@@ -1,9 +1,8 @@
 {
   "_class": "group",
-  "do_objectID": "18794F2A-DDB6-411B-9303-AF96DF35E744",
+  "do_objectID": "9F908719-55C2-4CB1-AE45-77A69E569B49",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D0A1C2CC-EF86-45C3-BCBD-04453C9ECD78",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,29 +13,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BE90716F-612B-446D-9145-AF2C20F14FFA",
-    "height": 146,
-    "width": 146,
-    "x": 1,
-    "y": 317
+    "height": 33,
+    "width": 240,
+    "x": 40.35153263137454,
+    "y": 233.5
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "E5A7DCB9-10F5-4DB9-8F13-42CC48B3A103"
-    },
-    {
-      "class": "group",
-      "id": "D81744A5-8BE0-438A-A06B-C435103C9A65"
+      "id": "FC834129-E95E-49AF-8202-909C21E2A369"
     }
   ],
-  "name": "Solid/rocket",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,15 +38,8 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4FAED296-5BFB-4A31-979A-7E23FBD7E131",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }
